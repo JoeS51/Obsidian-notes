@@ -1,0 +1,798 @@
+{
+  "main": {
+    "id": "062b063386a31826",
+    "type": "split",
+    "children": [
+      {
+        "id": "683db375d7890386",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "713f5c5a0d03c96c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/tailwind css.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tailwind css"
+            }
+          },
+          {
+            "id": "301080350fb8872c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/React Optimization Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React Optimization Notes"
+            }
+          },
+          {
+            "id": "99f65043ada03d63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CSE 444/CSE 444 Syllabus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSE 444 Syllabus"
+            }
+          },
+          {
+            "id": "374ce05902d4bb6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Database.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database"
+            }
+          },
+          {
+            "id": "35cd6d2494801703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Database Management System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database Management System"
+            }
+          },
+          {
+            "id": "85805f8337098bc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Database Management System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database Management System"
+            }
+          },
+          {
+            "id": "b1fa66917a47526d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CSE 444/SimpleDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SimpleDB"
+            }
+          },
+          {
+            "id": "60c7777266797c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Data Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Model"
+            }
+          },
+          {
+            "id": "d5cf7e0e1995b6a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Transaction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transaction"
+            }
+          },
+          {
+            "id": "7d31a25746f58d65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Data Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Model"
+            }
+          },
+          {
+            "id": "0bac301493adc5cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Transaction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transaction"
+            }
+          },
+          {
+            "id": "9399f9b86aeb48ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/ACID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ACID"
+            }
+          },
+          {
+            "id": "27e82f803df3b63b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Startup notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Startup notes"
+            }
+          },
+          {
+            "id": "56ce871c31252d53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microsoft Promotion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microsoft Promotion"
+            }
+          },
+          {
+            "id": "db9f8c9ad4c4853a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CSE 444/SimpleDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SimpleDB"
+            }
+          },
+          {
+            "id": "efdb09d4534bb6e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE 444 Lab 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSE 444 Lab 1"
+            }
+          },
+          {
+            "id": "8ebd9a5e21c93db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE 444 Lab 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSE 444 Lab 1"
+            }
+          },
+          {
+            "id": "fac4c53f23549ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE 444 Lab 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSE 444 Lab 1"
+            }
+          },
+          {
+            "id": "e4b334d8b992d279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE 444 Lab 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSE 444 Lab 1"
+            }
+          },
+          {
+            "id": "184b816e8a4b62ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Algebra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relational Algebra"
+            }
+          },
+          {
+            "id": "a665b1303c8ec305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Start up/Startup notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Startup notes"
+            }
+          },
+          {
+            "id": "c366851dd63c4b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Start up/Startup notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Startup notes"
+            }
+          },
+          {
+            "id": "1ac8a048af02357f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Start up/Startup notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Startup notes"
+            }
+          },
+          {
+            "id": "061cb0a2dbf6e3fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CSE 444/SimpleDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SimpleDB"
+            }
+          },
+          {
+            "id": "8851ab432c32f04d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CSE 444/SimpleDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SimpleDB"
+            }
+          },
+          {
+            "id": "6628d25fc9e03ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CSE 444/SimpleDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SimpleDB"
+            }
+          },
+          {
+            "id": "77866fddb51a8e53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BufferPool.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BufferPool"
+            }
+          },
+          {
+            "id": "b3dd5da047e82b52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          },
+          {
+            "id": "e16f06509b97a5f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Shadcn setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shadcn setup"
+            }
+          },
+          {
+            "id": "617f154b012e21a5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e835cd3857f819ca",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4f1fe3c4d9f7d998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design for Startup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design for Startup"
+            }
+          },
+          {
+            "id": "f46aadcda394dfa7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "dacab130fc44829e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selinger Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Selinger Algorithm"
+            }
+          },
+          {
+            "id": "30d7f4f54025e575",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-25 CSE 589 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-25 CSE 589 Notes"
+            }
+          },
+          {
+            "id": "41e8a8119c89be39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-25 CSE 589 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-25 CSE 589 Notes"
+            }
+          },
+          {
+            "id": "555c3a331c83190c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-25 CSE 589 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-25 CSE 589 Notes"
+            }
+          },
+          {
+            "id": "df93153854b94d62",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
+            "id": "3fdf85a5adf81e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Start up/Financial modeling for startups.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Financial modeling for startups"
+            }
+          },
+          {
+            "id": "fc9df923c0c2bbfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Start up/Financial modeling for startups.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Financial modeling for startups"
+            }
+          },
+          {
+            "id": "9fc1cd5365b07d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terms sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terms sheet"
+            }
+          },
+          {
+            "id": "cc842b63966d7d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Syntax.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python Syntax"
+            }
+          },
+          {
+            "id": "ec9c470cf65ce58a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE 589 Feedback.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSE 589 Feedback"
+            }
+          },
+          {
+            "id": "3a5edabe35178f5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          }
+        ],
+        "currentTab": 43
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f92f157e41fb91ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "706fa7a7de1bdc66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07615d0a1d76b754",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0a81f8bfe869fc84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5e82fc312a3dc454",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e1234c7c6853c79",
+    "type": "split",
+    "children": [
+      {
+        "id": "af19969a09cbfdc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e90b024f0527a97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f4f2eb4fd5d715a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "65abf6c286d11c88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f08753140ede7aee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3a5edabe35178f5f",
+  "lastOpenFiles": [
+    "Python Syntax.md",
+    "CSE 589 Feedback.md",
+    "Terms sheet.md",
+    "Start up/Financial modeling for startups.md",
+    "Start up/Series D.md",
+    "Start up/Startup notes.md",
+    "unit economics.md",
+    "Code/TAM.md",
+    "2-25 CSE 589 Notes.md",
+    "Downmarket.md",
+    "BOM.md",
+    "Selinger Algorithm.md",
+    "Design for Startup.md",
+    "Untitled.md",
+    "Classes/CSE 444/CSE 444 Syllabus.md",
+    "Code/Shadcn setup.md",
+    "Customer Validation.md",
+    "Classes/CSE 444/SimpleDB.md",
+    "Classes/CSE 444/Page Format.md",
+    "Screenshot 2025-01-13 at 11.07.03 AM.png",
+    "Git.md",
+    "Microsoft Promotion.md",
+    "L60.md",
+    "HeapFile.md",
+    "Business Model.md",
+    "Start up/CSE 589/CSE 589 HW1.md",
+    "BufferPool.md",
+    "Screenshot 2025-01-10 at 10.49.46 AM.png",
+    "Pasted image 20250110104516.png",
+    "Screenshot 2025-01-08 at 9.42.23 PM.png",
+    "Screenshot 2025-01-08 at 10.59.35 AM.png",
+    "Code/Screenshot 2025-01-06 at 11.17.39 AM.png",
+    "Classes/I S 305/Screenshot 2025-01-06 at 10.03.55 AM.png",
+    "Code/Screenshot 2025-01-01 at 11.48.06 AM.png",
+    "Code/Screenshot 2024-12-09 at 1.58.32 AM.png",
+    "Code/Screenshot 2024-09-27 at 9.47.40 AM.png",
+    "Daily Notes",
+    "Classes",
+    "Start up/CSE 589",
+    "Start up",
+    "Classes/CSE 444",
+    "Code",
+    "Classes/I S 305",
+    "Untitled.canvas"
+  ]
+}

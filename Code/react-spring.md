@@ -1,0 +1,1 @@
+This library allows for animations. It's pretty nice [[react-shortcuts]]

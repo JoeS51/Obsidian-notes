@@ -1,0 +1,6 @@
+- If i want to create a SaaS quick, I should have a template for backend and front end
+	- know how to host quick
+		- netlify
+		- Railway
+	- have front end template using shad cn and tailwind
+- need to learn how to quickly make good looking ui 

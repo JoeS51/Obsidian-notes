@@ -1,0 +1,9 @@
+- learning outside of comfort zone
+	- learned about farming bc he was interested
+- carbon robotics person had people that would say they would use the product
+- [[TAM]]
+- [[Series D]]
+- [[BOM]]
+- [[Downmarket]]
+- Dual use - can market to two different types of consumers (government and commercial)
+- 

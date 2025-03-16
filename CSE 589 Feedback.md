@@ -1,0 +1,3 @@
+- Stay curious
+- 2.5 / 4 things (Career, Friends, Hobby, Family)
+- 

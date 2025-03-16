@@ -1,0 +1,1 @@
+Application should not be affected by changes of the physical storage of data

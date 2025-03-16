@@ -1,0 +1,1 @@
+Series D funding is **the fourth stage of fundraising that a business completes after the seed stage**. The initial round of funding after the seed stage is Series A. The second is Series B, and then the third is Series C.

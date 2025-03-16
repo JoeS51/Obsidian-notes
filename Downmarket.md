@@ -1,0 +1,1 @@
+is relating or appealing to lower-income consumers.

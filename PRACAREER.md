@@ -1,0 +1,2 @@
+- To ping backend run: *ping pracareer-backend-service.fly.dev*
+- 

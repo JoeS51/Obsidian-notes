@@ -1,0 +1,4 @@
+- logical query plan w extra annotations
+- access path selection for each relation
+	- bottom of tree = read form disk
+	- use file scan or use an index![[Screenshot 2025-01-10 at 10.49.46 AM.png]]

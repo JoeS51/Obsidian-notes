@@ -1,0 +1,8 @@
+- 5 quizzes, lowest dropped
+	- dont worry about historical content from lecture 1
+	- review material from assignments
+	- know calc 
+- Projects:
+	- max 3 person groups; more people -> higher expectations
+	- get started!
+- [[NumPy]]

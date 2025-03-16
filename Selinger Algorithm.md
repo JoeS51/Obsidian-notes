@@ -1,0 +1,4 @@
+- Selinger enumeration algo consiers
+	- Different logic and physical plans at the same time
+	- cost of a plan is IO + CPU
+	- 

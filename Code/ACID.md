@@ -1,0 +1,3 @@
+ACID stands for:
+- Atomic
+- 

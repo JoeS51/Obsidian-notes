@@ -1,0 +1,2 @@
+- similar to neovim but some stuff is already set up
+- 

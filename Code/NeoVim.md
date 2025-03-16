@@ -1,0 +1,3 @@
+- uses vim 
+- quickly go between files and edit files without having to touch mouse
+- similar to [[LazyVim]]
