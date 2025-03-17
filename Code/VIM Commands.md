@@ -15,6 +15,12 @@
 - do :%d to delete whole file
 - shift d to delete everything after cursor
 - shift i to insert at start (better than 0 and then w)
+- :q! to exit without saving
+- :saveas FILE_NAME to save file with a certain file name
+- :e filename opens a file
+- zz -> centers the screen at the cursor
+- `]]` → Jump to the next function/class.
+- `[[` → Jump to the previous function/class.
 
 
 [[NeoVim]]
