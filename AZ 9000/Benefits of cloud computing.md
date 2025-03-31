@@ -1,0 +1,7 @@
+- agility
+	- can easily change what type of resource you want to use
+	- auto scaling (horizontal and vertical scaling)
+- high availability
+- Disaster recovery
+	- async replicate data across Datacenters 
+- scalable

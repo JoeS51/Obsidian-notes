@@ -1,0 +1,4 @@
+- Checkout session
+	- simpler way of implementing things where stripe takes care of the user paying. you just give it a success url and cancel url that stripe will redirect to when a use successfully pays or cancels the payment
+- payment intent
+	- a way to manage more of it yourself on the backend 

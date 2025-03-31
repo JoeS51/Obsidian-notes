@@ -687,16 +687,240 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Ant Build Tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Ant Build Tool"
+            }
+          },
+          {
+            "id": "7e60f8fe65ea1025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stripe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stripe"
+            }
+          },
+          {
+            "id": "88d4a1368c7fe089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Build in AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Build in AI"
+            }
+          },
+          {
+            "id": "e0744da8e3e24cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binary Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Search"
+            }
+          },
+          {
+            "id": "ec64c71f13af251c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ 9000/Cloud Computing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Computing"
+            }
+          },
+          {
+            "id": "e72ad28cdc769efe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ 9000/Benefits of cloud computing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Benefits of cloud computing"
+            }
+          },
+          {
+            "id": "c9ed0da8aded27ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ 9000/CapEx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CapEx"
+            }
+          },
+          {
+            "id": "e128daef751f429d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ 9000/OpEx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpEx"
+            }
+          },
+          {
+            "id": "d382cd76d4511d51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ 9000/CapEx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CapEx"
+            }
+          },
+          {
+            "id": "503b138d5c423085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ 9000/CapEx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CapEx"
+            }
+          },
+          {
+            "id": "11bb719e3f4577c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ 9000/CapEx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CapEx"
+            }
+          },
+          {
+            "id": "bd96cd88c7a78aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ 9000/Cloud Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Services"
+            }
+          },
+          {
+            "id": "6897f36626b040dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ 9000/Cloud Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Services"
+            }
+          },
+          {
+            "id": "cd803da0055381aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ 9000/Cloud Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Services"
+            }
+          },
+          {
+            "id": "46a82d913e0ff54c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ 9000/Cloud Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Services"
+            }
+          },
+          {
+            "id": "f65a288e4eece835",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Programming"
+            }
+          },
+          {
+            "id": "5be586ec83f122d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maximum Distance in Arrays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maximum Distance in Arrays"
             }
           }
         ],
-        "currentTab": 49
+        "currentTab": 65
       }
     ],
     "direction": "vertical"
@@ -749,8 +973,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -835,35 +1058,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c43806c37b156395",
+  "active": "5be586ec83f122d1",
   "lastOpenFiles": [
+    "Dynamic Programming.md",
+    "Maximum Distance in Arrays.md",
+    "Leetcode",
+    "AZ 9000/Cloud Services.md",
+    "PaaS.md",
+    "AZ 9000/Iaas.md",
+    "Terms sheet.md",
+    "unit economics.md",
+    "Microsoft Promotion.md",
+    "AZ 9000/on-prem.md",
+    "AZ 9000/CapEx.md",
+    "AZ 9000/OpEx.md",
+    "Business Model.md",
+    "CSE 444 Lab 1.md",
+    "AZ 9000/Benefits of cloud computing.md",
+    "AZ 9000/Cloud Computing.md",
+    "Binary Search.md",
+    "AZ 9000",
+    "Build in AI.md",
+    "Polling vs Server-sent events.md",
+    "Stripe.md",
+    "Ant Build Tool.md",
+    "Git.md",
     "Untitled 1.md",
     "Dynamically Typed Languages.md",
     "Statically Typed Languages.md",
     "React Query.md",
     "Python Syntax.md",
-    "CSE 589 Feedback.md",
-    "Terms sheet.md",
-    "Start up/Financial modeling for startups.md",
-    "Start up/Series D.md",
-    "Start up/Startup notes.md",
-    "unit economics.md",
-    "Code/TAM.md",
-    "2-25 CSE 589 Notes.md",
-    "Downmarket.md",
-    "BOM.md",
-    "Selinger Algorithm.md",
-    "Design for Startup.md",
-    "Untitled.md",
-    "Classes/CSE 444/CSE 444 Syllabus.md",
-    "Code/Shadcn setup.md",
-    "Customer Validation.md",
-    "Classes/CSE 444/SimpleDB.md",
-    "Classes/CSE 444/Page Format.md",
     "Screenshot 2025-01-13 at 11.07.03 AM.png",
-    "Git.md",
-    "Microsoft Promotion.md",
-    "L60.md",
     "Screenshot 2025-01-10 at 10.49.46 AM.png",
     "Pasted image 20250110104516.png",
     "Screenshot 2025-01-08 at 9.42.23 PM.png",
