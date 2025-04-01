@@ -1,0 +1,1 @@
+- a mix of [[Private cloud]] and [[Public cloud]]
