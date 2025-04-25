@@ -21,6 +21,8 @@
 - zz -> centers the screen at the cursor
 - `]]` → Jump to the next function/class.
 - `[[` → Jump to the previous function/class.
+- shift s deletes line and does insert mode
+- vi{ selects everything inside {}
 
 
 [[NeoVim]]

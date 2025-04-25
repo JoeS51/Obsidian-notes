@@ -1,0 +1,1 @@
+DDIA: some systems are ==elastic== meaning that they can automatically add computing resources when they detect a load increase, whereas other systems are scaled manually

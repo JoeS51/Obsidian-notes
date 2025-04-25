@@ -1,0 +1,1 @@
+describes your node app like name, version, dependencies, and has scripts

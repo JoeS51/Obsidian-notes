@@ -918,9 +918,261 @@
               "icon": "lucide-file",
               "title": "Maximum Distance in Arrays"
             }
+          },
+          {
+            "id": "4de38d9151a0f849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker Image.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker Image"
+            }
+          },
+          {
+            "id": "c07f0d4dbacef2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manifest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manifest"
+            }
+          },
+          {
+            "id": "0f327bb5cde94bdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "63a17b7f9e0a928b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dockerfile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dockerfile"
+            }
+          },
+          {
+            "id": "f5ce835005bd512a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ngnix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ngnix"
+            }
+          },
+          {
+            "id": "96c8b7c26da3f7e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reliability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reliability"
+            }
+          },
+          {
+            "id": "ad4363d7696f2811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faults.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Faults"
+            }
+          },
+          {
+            "id": "6ed2fae671f4d7a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scalability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scalability"
+            }
+          },
+          {
+            "id": "4c5a8b23795f5e6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Throughput.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Throughput"
+            }
+          },
+          {
+            "id": "3378d185c53b11cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Latency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Latency"
+            }
+          },
+          {
+            "id": "9e11177b0ff030ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Response Time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Response Time"
+            }
+          },
+          {
+            "id": "187d0e5ba653a6d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elastic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elastic"
+            }
+          },
+          {
+            "id": "c2fbd2feaff8bcb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maintanability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maintanability"
+            }
+          },
+          {
+            "id": "f1331015e4e47c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binary Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Search"
+            }
+          },
+          {
+            "id": "a7b063bb888f182e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tinybird.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tinybird"
+            }
+          },
+          {
+            "id": "008962e44f7abc04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Runtime Complexity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Runtime Complexity"
+            }
+          },
+          {
+            "id": "26e88fbfd834e411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Podcast.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Podcast"
+            }
+          },
+          {
+            "id": "e60fabd926e52245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/VIM Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VIM Commands"
+            }
           }
         ],
-        "currentTab": 65
+        "currentTab": 83
       }
     ],
     "direction": "vertical"
@@ -952,7 +1204,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Git",
+                "query": "vim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -973,7 +1225,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -1058,36 +1311,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5be586ec83f122d1",
+  "active": "e60fabd926e52245",
   "lastOpenFiles": [
-    "Dynamic Programming.md",
+    "CSS.md",
+    "AI Podcast.md",
+    "Runtime Complexity.md",
+    "Screenshot 2025-04-11 at 1.01.23 AM.png",
+    "Screenshot 2025-04-11 at 12.47.03 AM.png",
+    "Tinybird.md",
+    "Binary Search.md",
+    "Python Syntax.md",
+    "Data models.md",
+    "Maintanability.md",
+    "Elastic.md",
+    "Response Time.md",
+    "Latency.md",
+    "Throughput.md",
+    "Scalability.md",
+    "Faults.md",
+    "Reliability.md",
+    "Ngnix.md",
+    "DDIA",
+    "Dockerfile.md",
+    "Docker.md",
+    "Docker Container.md",
+    "package.json.md",
+    "Manifest.md",
+    "Docker Image.md",
     "Maximum Distance in Arrays.md",
+    "Dynamic Programming.md",
     "Leetcode",
     "AZ 9000/Cloud Services.md",
     "PaaS.md",
-    "AZ 9000/Iaas.md",
-    "Terms sheet.md",
-    "unit economics.md",
-    "Microsoft Promotion.md",
-    "AZ 9000/on-prem.md",
-    "AZ 9000/CapEx.md",
-    "AZ 9000/OpEx.md",
-    "Business Model.md",
-    "CSE 444 Lab 1.md",
-    "AZ 9000/Benefits of cloud computing.md",
-    "AZ 9000/Cloud Computing.md",
-    "Binary Search.md",
     "AZ 9000",
-    "Build in AI.md",
-    "Polling vs Server-sent events.md",
-    "Stripe.md",
-    "Ant Build Tool.md",
-    "Git.md",
-    "Untitled 1.md",
-    "Dynamically Typed Languages.md",
-    "Statically Typed Languages.md",
-    "React Query.md",
-    "Python Syntax.md",
     "Screenshot 2025-01-13 at 11.07.03 AM.png",
     "Screenshot 2025-01-10 at 10.49.46 AM.png",
     "Pasted image 20250110104516.png",
@@ -1096,8 +1352,6 @@
     "Code/Screenshot 2025-01-06 at 11.17.39 AM.png",
     "Classes/I S 305/Screenshot 2025-01-06 at 10.03.55 AM.png",
     "Code/Screenshot 2025-01-01 at 11.48.06 AM.png",
-    "Code/Screenshot 2024-12-09 at 1.58.32 AM.png",
-    "Code/Screenshot 2024-09-27 at 9.47.40 AM.png",
     "Daily Notes",
     "Classes",
     "Start up/CSE 589",

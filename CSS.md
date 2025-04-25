@@ -1,0 +1,4 @@
+- marginLeft: auto
+	 - It tells the browser to automatically calculate the left margin
+	- The browser will assign all available space in the parent container to this left margin
+	- This effectively pushes the element all the way to the right edge of its parent container

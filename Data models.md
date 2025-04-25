@@ -1,0 +1,5 @@
+- perhaps the most important part of developing software because they have an effect on how *we think about the problem* that we are solving
+- Most applications are built by layering one data model on top of another. 
+	- Application developer models in terms of objects or data structures
+	- Those data structures are represented as JSON or XML documents, relational database, etc
+	- How is it represented on disk
