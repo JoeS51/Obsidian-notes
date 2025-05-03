@@ -1,0 +1,2 @@
+A modal in react is a component that creates a dialogue box or pop-up window appearing on top of the current page content
+- temporarily blocks interaction with the rest of the application until the user addresses it
