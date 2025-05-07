@@ -1,0 +1,1 @@
+==Amazon Simple Storage Service==, a cloud storage service that offers object storage through a web service interface. It allows users to store and retrieve any amount of data at any time from anywhere on the internet. S3 is used for a variety of purposes, including storing data for internet applications, backups, disaster recovery, and data archives.
