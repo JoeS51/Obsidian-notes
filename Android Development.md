@@ -1,0 +1,2 @@
+- Android dev uses Android studio
+- Kotlin is the primary language
