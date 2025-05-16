@@ -1,1 +1,6 @@
-[[Bearer token error]]
+- **Bearer token bug**
+	- Bug: The endpoint wouldn't return correctly because of a bearer token issue
+	- Link: [[Bearer token error]]
+- **Error with wrong endpoint being called** 
+	- Bug: I made a new endpoint in Node.js, but when I tried actually calling it, it was calling the wrong endpoint
+	- Link: [[Wrong Endpoint Bug]]
