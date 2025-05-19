@@ -7,3 +7,5 @@
 
 **Origin**: is the default name for the remote repository where your local repo is connected
 - when you clone a repo, git automatically names the remote repo as `origin`
+[[Git Stash]]
+[[Git Worktree]]

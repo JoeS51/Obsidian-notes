@@ -1,0 +1,3 @@
+- `git stash` - temporarily stash tracked changes
+- `git stash push -m "message"` - stash with a message
+- `git stash list`
