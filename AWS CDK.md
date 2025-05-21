@@ -1,0 +1,1 @@
+The **AWS Cloud Development Kit (CDK)** lets you **define AWS infrastructure using real programming languages**

@@ -1,0 +1,1 @@
+**Terraform** is an open-source **Infrastructure as Code (IaC)** tool created by **HashiCorp**. It lets you define, provision, and manage cloud infrastructure using **declarative configuration files**, usually written in **HCL (HashiCorp Configuration Language)** or JSON.
