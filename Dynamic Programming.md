@@ -1,9 +1,4 @@
 
-
-
-
-
-
 *General Notes:*
 - don't use nonlocal variable if youre doing some count or keeping track of a value
 	- @cache makes it so that you aren't performing side effects like `count += 1`

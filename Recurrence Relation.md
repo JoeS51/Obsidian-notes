@@ -1,0 +1,1 @@
+A **recurrence relation** is an equation that defines a sequence by expressing each term using previous terms.

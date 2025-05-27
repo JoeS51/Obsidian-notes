@@ -41,12 +41,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infrastructure As Code.md",
+                "file": "Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infrastructure As Code"
+              "title": "Algorithms"
+            }
+          },
+          {
+            "id": "cf3a5a015c5827f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE 421.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSE 421"
+            }
+          },
+          {
+            "id": "174459a37f9806c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE 421.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSE 421"
+            }
+          },
+          {
+            "id": "fc056c743cd50cda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE 421.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSE 421"
+            }
+          },
+          {
+            "id": "9d65693c22b910c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weighted Interval Scheduling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weighted Interval Scheduling"
+            }
+          },
+          {
+            "id": "6baa82ec6f60b9bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Programming"
+            }
+          },
+          {
+            "id": "2db91277393d0c9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fibonacci Numbers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fibonacci Numbers"
+            }
+          },
+          {
+            "id": "d57e43bd08a3b708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recurrence Relation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recurrence Relation"
             }
           },
           {
@@ -256,7 +354,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -288,7 +386,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "memoiza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -309,7 +407,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -394,10 +493,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbb8a4e8fb350b86",
+  "active": "9d65693c22b910c8",
   "lastOpenFiles": [
-    "AWS CDK.md",
+    "Screenshot 2025-05-22 at 1.29.01 PM.png",
+    "Weighted Interval Scheduling.md",
+    "CSE 421.md",
+    "Dynamic Programming.md",
+    "Fibonacci Numbers.md",
+    "Screenshot 2025-05-22 at 1.24.02 PM.png",
+    "Memoization.md",
+    "Recurrence Relation.md",
+    "Algorithms.md",
     "Infrastructure As Code.md",
+    "AWS CDK.md",
     "Terraform.md",
     "Screenshot 2025-05-20 at 6.19.22 PM.png",
     "Engineering Daybook.md",
@@ -415,14 +523,6 @@
     "Android Development.md",
     "Bearer token error.md",
     "TOPICS TO LEARN.md",
-    "Binary Search.md",
-    "Google Cloud Storage.md",
-    "React Query.md",
-    "React Immutable State.md",
-    "React Project Structure.md",
-    "ARTICLES TO WRITE.md",
-    "Google Cloud Functions.md",
-    "Sliding windows.md",
     "Screenshot 2025-05-16 at 1.16.26 PM.png",
     "Screenshot 2025-05-16 at 1.03.25 PM.png",
     "Screenshot 2025-05-16 at 12.48.24 PM.png",
@@ -434,7 +534,6 @@
     "AZ 9000",
     "Screenshot 2025-01-13 at 11.07.03 AM.png",
     "Screenshot 2025-01-10 at 10.49.46 AM.png",
-    "Pasted image 20250110104516.png",
     "Daily Notes",
     "Classes",
     "Start up/CSE 589",
