@@ -1,0 +1,3 @@
+**WebSocket** provides full-duplex communication channels over a single TCP connection. It provides a persistent connection between a client and a server. Both parties can use this connection to start sending data at any time. The client establishes a connection through a WebSocket handshake. If the process succeeds, the server and client can begin exchanging data in both directions at any time.
+
+![[Screenshot 2025-06-11 at 3.53.18 PM.png]]

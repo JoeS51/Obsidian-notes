@@ -1,0 +1,1 @@
+**REST** is a set of design principles to directly interact with the API that is HTTP, allowing efficient, scalable systems with components isolated from each other’s assumptions. Using these principles and open API makes it easier for others to build on our work or extend our capabilities with extensions to their own apps and services.

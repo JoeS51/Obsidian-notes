@@ -1,0 +1,1 @@
+Cohort retention analysis is the process of tracking user engagement with the product over time. However, instead of looking at the user population as a whole, it looks at specific user groups linked to specific events.

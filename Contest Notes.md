@@ -1,0 +1,2 @@
+- Sometimes they rejudge questions, so make sure to test edge cases
+- For graph problems, undirected edges should be mapped both ways

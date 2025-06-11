@@ -1,0 +1,1 @@
+- HTTP a foundational protocol on which the entire internet runs. It is the system through which we send every email, stream every Netflix movie, and browse every Amazon listing.
