@@ -1,0 +1,4 @@
+- **CAP Theorem**: 
+	- Might start by saying *The CAP theorem states that in a distributed system, you can only guarantee two out of three properties: **Consistency**, **Availability**, and **Partition Tolerance**. Partition Tolerance is a must in large-scale systems like YouTube due to the nature of network failures, so the real trade-off is usually between Consistency and Availability.*
+
+- Youtube favors Availability over Consistency. For example, if a user uploads a video and another user tries to watch it within seconds, they may not see it immediately due to eventual consistency in caching or CDN propagation. But the system will still serve other videos — so it's highly available, even if not always strongly consistent.

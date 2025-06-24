@@ -13,6 +13,7 @@
 ### Fundamentals of Distributed Systems:
 - [[Durability]]
 - [[Consistency]]
+- [[Availability]]
 - [[Partitioning]]
 - [[Consensus]]
 
