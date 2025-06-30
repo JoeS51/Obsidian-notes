@@ -1,0 +1,3 @@
+- You want to cover both data in transit (via protocol encryption) and the data at rest (via storage encryption)
+	- HTTPS is the SSL/TLS protocol that encrypts data in transit and is the standard for web traffic 
+	- For data at rest, you want to use a DB that supports encryption

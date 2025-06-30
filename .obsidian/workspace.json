@@ -106,6 +106,244 @@
             }
           },
           {
+            "id": "3d5459a78aad731e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "e4b582ab690f68df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "5899e612a4086312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "bbbff287046e1225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "a684bacfd0a23642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "64211ee9972bac3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "229059fcdea3db14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "265db09791ece7d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design Delivery Framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design Delivery Framework"
+            }
+          },
+          {
+            "id": "7cc3cfdcb8dd7ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encryption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encryption"
+            }
+          },
+          {
+            "id": "892af45da93ecb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Authentication and Authorization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Authentication and Authorization"
+            }
+          },
+          {
+            "id": "fd7de8309b40b13c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "a4735270d84c2b0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/Indexing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Indexing"
+            }
+          },
+          {
+            "id": "48f63e6b962690de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transport layer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transport layer"
+            }
+          },
+          {
+            "id": "6cbe09a1c7e3ca57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "45714ab63d518583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/Scaling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scaling"
+            }
+          },
+          {
+            "id": "eca6246d03e093f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consistent Hashing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consistent Hashing"
+            }
+          },
+          {
+            "id": "62c79a6efefb6c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UDP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UDP"
+            }
+          },
+          {
             "id": "8402322f91d73ad8",
             "type": "leaf",
             "state": {
@@ -232,7 +470,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -370,45 +608,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "633354519092df0d",
+  "active": "265db09791ece7d5",
   "lastOpenFiles": [
+    "Pasted image 20250629224809.png",
+    "System Design Delivery Framework.md",
+    "System Design/System Design.md",
+    "System Design/Queue.md",
+    "Load Balancer.md",
+    "Pasted image 20250629203607.png",
+    "API Gateway.md",
+    "Pasted image 20250629203125.png",
+    "System Design/Leetcode system design.md",
+    "Authentication and Authorization.md",
+    "Monitoring.md",
+    "Encryption.md",
+    "Security.md",
+    "HTTP Long Polling.md",
+    "System Design/Indexing.md",
+    "System Design/Scaling.md",
+    "System Design/CAP Theorem.md",
+    "Consistent Hashing.md",
+    "System Design/Networking 101.md",
+    "Pasted image 20250625221913.png",
+    "Pasted image 20250625221850.png",
+    "Pasted image 20250625220754.png",
+    "Scalability.md",
+    "TCP.md",
+    "Transport layer.md",
+    "UDP.md",
+    "System Design/PACELC theorem.md",
+    "Sieve of Eratosthenes.md",
     "Pasted image 20250624125852.png",
     "Websockets.md",
-    "System Design/Networking 101.md",
     "HTTP.md",
     "Pasted image 20250624124859.png",
     "Availability.md",
-    "System Design/System Design.md",
-    "Git.md",
-    "LifeCassette Backend Notes.md",
-    "Consistency.md",
-    "System Design/Designing Youtube.md",
-    "System Design/CAP Theorem.md",
-    "System Design/System Design Common Questions.md",
-    "System Design/System Design Interview.md",
-    "YC SUS Day 2 Notes.md",
-    "YC AI Startup School.md",
-    "YC SUS Day 1 Notes.md",
-    "zshrc.md",
-    "Algorithms.md",
-    "React.md",
-    "Psychology of Debugging.md",
-    "Debugging Mindset.md",
-    "Debugging Strategies.md",
-    "Recurrence Relation.md",
-    "Fibonacci Numbers.md",
-    "Dynamic Programming.md",
-    "Leetcode/Monotonic Stack.md",
     "Leetcode",
     "Screenshot 2025-06-11 at 4.11.47 PM.png",
     "Screenshot 2025-06-11 at 3.54.08 PM.png",
     "Screenshot 2025-06-11 at 3.53.18 PM.png",
-    "Screenshot 2025-06-11 at 3.52.08 PM.png",
-    "Screenshot 2025-06-11 at 3.49.24 PM.png",
-    "Screenshot 2025-06-11 at 3.42.59 PM.png",
-    "Screenshot 2025-06-11 at 3.39.17 PM.png",
-    "Screenshot 2025-06-11 at 3.34.00 PM.png",
-    "Screenshot 2025-06-11 at 3.33.12 PM.png",
     "System Design",
     "DDIA",
     "Leetcode",

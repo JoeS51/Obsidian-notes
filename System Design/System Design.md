@@ -9,6 +9,17 @@
 - [[HTTP Long Polling]]
 - [[Websockets]]
 - [[Server sent events]]
+- [[Scaling]]
+- [[Indexing]]
+	- [[ElasticSearch]]
+- [[Security]]
+	- [[Authentication and Authorization]]
+	- [[Encryption]]
+	- [[Data Protection]]
+	- [[Monitoring]]
+- [[API Gateway]]
+- [[Load Balancer]]
+- [[Queue]]
 
 ### Fundamentals of Distributed Systems:
 - [[Durability]]
@@ -21,6 +32,10 @@
 - [[HTTP]]
 - [[REST]]
 - [[RPC]] 
+
+### Actual Interview:
+- [[System Design Delivery Framework]]
+
 
 [[System Design Interview]]
 

@@ -4,9 +4,9 @@ Networking is about connecting devices and enabling them to communicate
 
 ![[Pasted image 20250624124859.png|600]]
 
-**Network layer:** this layer is IP, the protocol that handles routing and addressing. It is responsible for breaking the data into packets, handling packet forwarding between networks, and providing delivery to any destination IP address on the network 
+**[[Network layer]]:** this layer is IP, the protocol that handles routing and addressing. It is responsible for breaking the data into packets, handling packet forwarding between networks, and providing delivery to any destination IP address on the network 
 
-**Transport layer:** At this layer, we have [[TCP]], [[QUIC]], and [[UDP]], which provide end-to-end communication services. Think of them like a layer that provides features like reliability, ordering, and flow control on top of the network layer
+**[[Transport layer]]:** At this layer, we have [[TCP]], [[QUIC]], and [[UDP]], which provide end-to-end communication services. Think of them like a layer that provides features like reliability, ordering, and flow control on top of the network layer
 
 **Application layer:** At the final layer are the application protocols like [[DNS]], [[HTTP]], [[Websockets]], [[WebRTC]]. These are common protocols that build on top of TCP (or UDP for WebRTC)
 
