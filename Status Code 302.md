@@ -1,0 +1,2 @@
+302 Found means "the resource you requested is temporarily at a different URL. Please redirect there."
+- This is helpful for applications like URL Shorteners because it'll redirect from the short URL to the actual URL after it gets this status code

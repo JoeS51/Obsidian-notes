@@ -1,0 +1,1 @@
+[[Status Code 302]] - 302 Found means "the resource you requested is temporarily at a different URL. Please redirect there."

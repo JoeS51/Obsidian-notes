@@ -12,7 +12,7 @@
 		- Users should be able to follow others
 		- Users should be able to see tweets from users they follow
 	- `Keep requirements targeted. Prioritize to 3. You are evaluated on your ability to focus on what matters`
-2. **Non-functional requirements**: statements about the system qualities that are important to your users. These can be phrased as "The system  should be able to..."
+2. **Non-functional requirements**: statements about the system qualities that are important to your users. These can be phrased as "The system should be able to..."
 	- For example, for designing a system like Twitter:
 		- The system should be high availability, prioritizing availability over consistency
 		- The system should be able to scale to support 100M+ DAUs
